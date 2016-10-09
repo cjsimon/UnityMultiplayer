@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9D7482C9-1852-E8F5-B1F2-64F9FDA24EC8}") = "SampleMultiplayerGame_tutorial", "Assembly-CSharp.csproj", "{3CD7CBEF-F0D9-E4C5-41F5-F63FA8FD5094}"
+EndProject
+Project("{9D7482C9-1852-E8F5-B1F2-64F9FDA24EC8}") = "SampleMultiplayerGame_tutorial", "Assembly-CSharp-Editor.csproj", "{7EB9EDF0-F48C-8ABD-7B3C-F5CAFA17FFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD7CBEF-F0D9-E4C5-41F5-F63FA8FD5094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD7CBEF-F0D9-E4C5-41F5-F63FA8FD5094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD7CBEF-F0D9-E4C5-41F5-F63FA8FD5094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD7CBEF-F0D9-E4C5-41F5-F63FA8FD5094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB9EDF0-F48C-8ABD-7B3C-F5CAFA17FFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB9EDF0-F48C-8ABD-7B3C-F5CAFA17FFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB9EDF0-F48C-8ABD-7B3C-F5CAFA17FFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB9EDF0-F48C-8ABD-7B3C-F5CAFA17FFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
