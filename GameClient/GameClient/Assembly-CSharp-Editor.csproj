@@ -45,25 +45,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GoogleVR\Editor\GvrAudioListenerEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Editor\GvrAudioRoomEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Editor\GvrAudioSoundfieldEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Editor\GvrAudioSourceEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Editor\GvrCompatibilityChecker.cs" />
-     <Compile Include="Assets\GoogleVR\Editor\GvrGazeEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrMenu.cs" />
-     <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrViewerEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Legacy\Editor\StereoControllerEditor.cs" />
-     <Compile Include="Assets\SocketIO\JSONObject\Editor\JSONChecker.cs" />
-     <None Include="Assets\SocketIO\JSONObject\readme.txt" />
-     <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
-     <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
-     <None Include="Assets\SocketIO\Readme.txt" />
+     <Compile Include="Assets\Assets\GoogleVR\Editor\GvrAudioListenerEditor.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Editor\GvrAudioRoomEditor.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Editor\GvrAudioSoundfieldEditor.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Editor\GvrAudioSourceEditor.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Editor\GvrCompatibilityChecker.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Editor\GvrGazeEditor.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Legacy\Editor\GvrMenu.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Legacy\Editor\GvrViewerEditor.cs" />
+     <Compile Include="Assets\Assets\GoogleVR\Legacy\Editor\StereoControllerEditor.cs" />
+     <None Include="Assets\Standard Assets\SocketIO\JSONObject\readme.txt" />
+     <None Include="Assets\Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
+     <None Include="Assets\Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Standard Assets\SocketIO\Readme.txt" />
      <None Include="Assets\Plugins\Android\AndroidManifest-Daydream.xml" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
-     <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
+     <None Include="Assets\Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest-Cardboard.xml" />
-     <None Include="Assets\GoogleVR\Legacy\Resources\SolidColor.shader" />
+     <None Include="Assets\Assets\GoogleVR\Legacy\Resources\SolidColor.shader" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
